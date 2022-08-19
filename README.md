@@ -15,8 +15,14 @@ Hey there 👋
 
 ---
 ### :man_technologist: About Me :
-I'm Tamilarasu, a senior software engineer from India
+<div>
+  I'm Tamilarasu, a senior software engineer from India <br/><br/>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)  
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](your-linkedin-url)
 
+  Want to know more about me? <a href="https://tamilarasu.in">Visit my profile</a>
+</div>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -33,3 +39,9 @@ I'm Tamilarasu, a senior software engineer from India
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamilarasusm)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasusm&layout=compact)](https://github.com/tamilarasusm/github-readme-stats)
