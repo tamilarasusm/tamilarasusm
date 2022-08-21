@@ -18,7 +18,7 @@ Hey there 👋
 <div>
   I'm Tamilarasu, a senior software engineer from India <br/><br/>
   
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tamilarasu-s-m-64228358/)  
   [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](your-linkedin-url)
 
   Want to know more about me? <a href="https://tamilarasu.in">Visit my profile</a>
